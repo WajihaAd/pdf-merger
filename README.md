@@ -1,15 +1,15 @@
-PDF Manipulation with PyPDF
+# PDF Manipulation with PyPDF
 This Python script demonstrates how to perform various operations on PDF files using the PyPDF library.
 
-Features
+##Features
 Merging PDF Files: Merges multiple PDF files into a single PDF file.
 
-Reading Text from PDF: Extracts text from a PDF file.
+##Reading Text from PDF: Extracts text from a PDF file.
 
-Installation
+##Installation
 Clone the repository:
 
-bash
+##bash
 Copy code
 git clone https://github.com/yourusername/pypdf-demo.git
 Install the required library:
