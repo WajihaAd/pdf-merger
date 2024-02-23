@@ -46,17 +46,13 @@ The text content of the PDF file will be printed to the console.
 
 ## Example
 
-Suppose you have three PDF files named "pdfkk.pdf", "Resume-Wajiha-Adnan (1).pdf", and "Resume-Wajiha-Adnan.pdf" that you want to merge. After running the script, the merged PDF file will be created as `resumefile.pdf`.
+Suppose you have three PDF files named "pdfkk.pdf", "RTU (1).pdf", and "RTV.pdf" that you want to merge. After running the script, the merged PDF file will be created as `rLL.pdf`.
 
 Additionally, if you want to extract text from the "pdfkk.pdf" file, the script will print the text content to the console.
 
 ## Note
 
 Make sure to update the file names and paths as per your directory structure.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
 
