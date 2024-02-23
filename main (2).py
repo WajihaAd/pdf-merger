@@ -2,7 +2,7 @@ import pypdf as p
 try:
   #merging a file
   merge=p.PdfWriter()
-  for i in ["pdfkk.pdf","Resume-Wajiha-Adnan (1).pdf","Resume-Wajiha-Adnan.pdf"]:
+  for i in ["pdfkk.pdf","ReDFG (1).pdf","RTUH.pdf"]:
     merge.append(i)
   merge.write("resumefile.pdf")
   merge.close()
